@@ -1,0 +1,2 @@
+# gitr
+global-itr
